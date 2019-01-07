@@ -1,8 +1,8 @@
-# PlayWithWSL
-Play with wsl 
-
 # What is WSL?  
 Windows subsystem for linux 
+
+# Requirements  
+Latest Windows10
 
 # Work flow   
 
