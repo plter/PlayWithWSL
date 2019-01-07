@@ -2,7 +2,7 @@
 Windows subsystem for linux 
 
 # Requirements  
-Latest Windows10
+Latest Windows OS
 
 # Work flow   
 
