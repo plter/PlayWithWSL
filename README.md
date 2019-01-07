@@ -6,7 +6,7 @@ Latest Windows OS
 
 # Work flow   
 
-1. Turn on wsl feature with commond `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux` or check the `wsl` item in control panel.  
+1. Turn on wsl feature with commond `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux` or check the `Windos Subsystem for Linux` item in `Turn Windows features on or off` panel.  
 2. Search `ubuntu` with Widnows Store and install it.
 3. Launch `ubuntu` and config your username and password. 
 
