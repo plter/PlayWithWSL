@@ -1,6 +1,8 @@
 # What is WSL?  
 Windows subsystem for linux  
-[视频教程](http://yunp.top/init/course/v/1279)
+
+* [在线视频教程](http://yunp.top/init/course/v/1279)
+* [视频教程下载](https://pan.baidu.com/s/1tBlog0TzMT_o9szckPCe7g)
 
 # Requirements  
 Latest Windows OS
